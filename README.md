@@ -1,3 +1,7 @@
+
+ss - https://imgur.com/a/F5oydDE
+
+
 # EFI
  macos monterey for HP pavilion 16 a000x
 working
