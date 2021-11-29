@@ -7,9 +7,14 @@
 ![Screenshot 2021-11-26 at 9 49 25 AM](https://user-images.githubusercontent.com/76640596/143538609-0727d0df-2aa4-49df-b5fe-58fb97533e4b.png)
 
 
+https://user-images.githubusercontent.com/76640596/143892867-2fb33abb-98ac-49b6-80c4-64b8c3d21f56.mp4
+
+Or i can say Bluetooth yeager
+
 
 # EFI
- macos monterey for HP pavilion 16 a000x
+
+macos monterey for HP pavilion 16 a000x
 working
 
 1.bluetooth
