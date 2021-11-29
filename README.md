@@ -43,6 +43,7 @@ working
 15.uhd 630 fixed no booting issues now
 
 what not working
+(FIXED)
 
 1.usb hid mouse (fixed using usbmap map.kext but that bricks bluetooth same with cam)
 
@@ -50,9 +51,9 @@ what not working
 
 my pc
 
-CPU:I510300H
+CPU:I510300H [OVERCLOCKED] yea moded bios without offset voltage option
 
-GPU:UHD630 (1650TI Not working missing drivers blame nvdia)
+GPU:UHD630 (1650TI Not working missing drivers blame Nvdia)
 
 RAM:8gb samsung 3200Mhz
 
