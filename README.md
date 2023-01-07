@@ -1,6 +1,6 @@
 
 
- ----------------------------------------------------------------YOWAIIMO-----------------------------------------------------------------
+ ----------------------------------------------------------------Ventura----------------------------------------------------------
 ![Screenshot 2021-11-26 at 9 49 21 AM](https://user-images.githubusercontent.com/76640596/143538575-c68be57f-9c61-4dc1-8328-582c3f05860a.png)
 ![Screenshot 2021-11-26 at 9 50 04 AM](https://user-images.githubusercontent.com/76640596/143538600-2511705f-5991-421f-af3a-4f098d88b19a.png)
 ![Screenshot 2021-11-26 at 9 51 24 AM](https://user-images.githubusercontent.com/76640596/143538605-6b70093f-ed43-4902-8a47-1ad05687de5e.png)
@@ -9,7 +9,7 @@
 
 https://user-images.githubusercontent.com/76640596/143892867-2fb33abb-98ac-49b6-80c4-64b8c3d21f56.mp4
 
-Or i can say Bluetooth yeager
+Or i can say Bluetooth jaeger
 
 
 # EFI
