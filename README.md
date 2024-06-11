@@ -69,5 +69,5 @@ Ethernet Card: Realtek RTL8111
 
 Wifi/BT Card: Wifi 6 AX201 intel Bluetooth (says also ax201in hackintool)
 
-BIOS revision:Ami f.22
+BIOS revision:Ami f.24
 
