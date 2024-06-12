@@ -16,7 +16,7 @@ Added miku
 
 # EFI
 
-macos monterey for HP pavilion 16 a000x
+macos sequoia for HP pavilion 16 a000x
 working
 
 1.bluetooth(broken rn)
