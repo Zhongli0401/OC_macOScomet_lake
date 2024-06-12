@@ -29,7 +29,7 @@ working
 
 5.Internal speakers
 
-6. ssd & hdd
+6.ssd & hdd
 
 7.apple id
 
