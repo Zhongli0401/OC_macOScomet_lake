@@ -1,14 +1,16 @@
 
---------------------------------------------------------Ventura-------------------------------------------------
-![Screenshot 2021-11-26 at 9 49 21 AM](https://user-images.githubusercontent.com/76640596/143538575-c68be57f-9c61-4dc1-8328-582c3f05860a.png)
-![Screenshot 2021-11-26 at 9 50 04 AM](https://user-images.githubusercontent.com/76640596/143538600-2511705f-5991-421f-af3a-4f098d88b19a.png)
-![Screenshot 2021-11-26 at 9 51 24 AM](https://user-images.githubusercontent.com/76640596/143538605-6b70093f-ed43-4902-8a47-1ad05687de5e.png)
-![Screenshot 2021-11-26 at 9 49 25 AM](https://user-images.githubusercontent.com/76640596/143538609-0727d0df-2aa4-49df-b5fe-58fb97533e4b.png)
+--------------------------------------------------------Sequoia-------------------------------------------------
+![Screenshot 2024-06-12 at 11 51 53 PM](https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/3e9c5266-eede-46ba-b457-ec06ddcbe6bb)
+![Screenshot 2024-06-12 at 11 51 40 PM](https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/8265f669-63c1-4374-a377-9cbe81ecd579)
+![Screenshot 2024-06-12 at 11 52 38 PM](https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/34f41a2d-bc53-4608-9e32-45fe05dba842)
+![Screenshot 2024-06-12 at 11 52 44 PM](https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/ba940f2d-8cfe-473b-aaf8-4932ae102478)
+![Screenshot 2024-06-12 at 11 53 07 PM](https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/bf2ec9b3-ed66-4e99-a21b-8c0f96f32a46)
 
 
-https://user-images.githubusercontent.com/76640596/143892867-2fb33abb-98ac-49b6-80c4-64b8c3d21f56.mp4
+https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/fbd0b84f-1ca3-458f-b2dc-09f5a94793db
 
-Or i can say Bluetooth jaeger
+
+Added miku
 
 
 # EFI
@@ -16,9 +18,9 @@ Or i can say Bluetooth jaeger
 macos monterey for HP pavilion 16 a000x
 working
 
-1.bluetooth
+1.bluetooth(broken rn)
 
-2.wifi & ethernet
+2.wifi & ethernet (works use heliport)
 
 3.Backlight
 
@@ -36,7 +38,7 @@ working
 
 10.cpu power management fixed cfg lock
 
-11. Trackpad & keyboard
+11. Trackpad(broken rn the tracking is broken ) & keyboard
 
 12.sleep fixed
 
@@ -47,27 +49,27 @@ working
 15.uhd 630 fixed no booting issues now
 
 what not working
-(FIXED)
+(wifi natively and bluetooth)
 
 1.usb hid mouse (fixed using usbmap map.kext but that bricks bluetooth same with cam)
 
 2.Thats all XD
 
-my pc
+#### my pc
 
-CPU:I510300H [OVERCLOCKED] yea moded bios without offset voltage option
+- CPU:I510300H [OVERCLOCKED] yea moded bios without offset voltage option--
 
-GPU:UHD630 (1650TI Not working missing drivers blame Nvdia)
+- GPU:UHD630 (1650TI Not working missing drivers blame Nvdia)
 
-RAM:8gb samsung 3200Mhz
+- RAM:8gb samsung 3200Mhz
 
-Motherboard/Laptop Make and Model: HP gaming 16 a000x
+- Motherboard/Laptop Make and Model: HP gaming 16 a000x
 
-Audio Codec:apple alc 0x103C87AE
+- Audio Codec:apple alc 0x103C87AE
 
-Ethernet Card: Realtek RTL8111
+- Ethernet Card: Realtek RTL8111
 
-Wifi/BT Card: Wifi 6 AX201 intel Bluetooth (says also ax201in hackintool)
+- Wifi/BT Card: Wifi 6 AX201 intel Bluetooth (says also ax201in hackintool)
 
-BIOS revision:Ami f.22
+- BIOS revision:Ami f.24
 
