@@ -7,7 +7,8 @@
 ![Screenshot 2024-06-12 at 11 53 07 PM](https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/bf2ec9b3-ed66-4e99-a21b-8c0f96f32a46)
 
 
-https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/fbd0b84f-1ca3-458f-b2dc-09f5a94793db
+
+https://github.com/Zhongli0401/OC_macOScomet_lake/assets/76640596/e1b49bca-3379-487c-9f85-2f40f8dbaeee
 
 
 Added miku
