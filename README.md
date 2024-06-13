@@ -39,7 +39,7 @@ working
 
 10.cpu power management fixed cfg lock
 
-11. Trackpad(broken rn the tracking is broken ) & keyboard
+11. Trackpad(fixed) & keyboard
 
 12.sleep fixed
 
@@ -52,7 +52,7 @@ working
 what not working
 (wifi natively and bluetooth)
 
-1.usb hid mouse (fixed using usbmap map.kext but that bricks bluetooth same with cam)
+1.usb hid mouse (fixed using usbmap map.kext)
 
 2.Thats all XD
 
